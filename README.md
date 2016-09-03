@@ -1,2 +1,1 @@
-"# myfistrepository" >> README.md
-git commit -m "Гурин Александр 2 курс 1 граппа"
+#Sasha Gurin ISIT 1 group
